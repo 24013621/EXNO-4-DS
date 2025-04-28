@@ -24,6 +24,14 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![Screenshot 2025-04-18 105101](https://github.com/user-attachments/assets/15268901-1310-4988-a8ff-590d7a1a0043)
+![Screenshot 2025-04-18 105114](https://github.com/user-attachments/assets/c66803b9-17a1-4285-b6d2-52a1df0f8b35)
+![Screenshot 2025-04-18 105131](https://github.com/user-attachments/assets/a4bc1d90-2fac-4449-bb6f-e02b477cf50d)
+![Screenshot 2025-04-18 105145](https://github.com/user-attachments/assets/dce93dc8-ca78-4836-8be7-5131e04a4378)
+![Screenshot 2025-04-18 105159](https://github.com/user-attachments/assets/2340f534-5380-46fe-9594-f13dea36f3af)
+![Screenshot 2025-04-18 105208](https://github.com/user-attachments/assets/b7611d07-d1bc-4002-a58a-368aa4d716b5)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature selection and Feature scaling has been used on thegiven dataset.
+
